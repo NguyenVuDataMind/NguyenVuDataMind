@@ -1,5 +1,5 @@
 # 💫About Me :
-I am Vu, a third-year student majoring in Data Science and Business Analytics.
+I’m Vu, a third-year student majoring in Data Science and Business Analytics. I am actively seeking opportunities in the field of Data Analysis (DA) and other areas of Data Science (DS), such as Computer Vision and Natural Language Processing, as well as Data Engineering (DE).
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ng%E1%BB%8Dc-v%C5%A9-nguy%E1%BB%85n-10613b334/) 
