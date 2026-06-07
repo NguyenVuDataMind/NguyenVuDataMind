@@ -2,14 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=Nguyen%20Ngoc%20Vu&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Data%20Engineer%20|%20Data%20Analyst%20|%20eCommerce%20Specialist&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+pipelines+for+Shopee+%C2%B7+TikTok+%C2%B7+Amazon;Batch+%26+Streaming+%7C+Medallion+Architecture+%7C+AI+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+pipelines+for+Shopee+%C2%B7+TikTok+%C2%B7+Amazon;Batch+%26+Streaming+%7C+Medallion+Architecture+%7C+AI+Automation" alt="Typing SVG" />
+</a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Ngoc%20Vu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenngocvu3007/)
 [![Gmail](https://img.shields.io/badge/Gmail-nguyenvu30072004572-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenvu30072004572@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NguyenVuDataMind-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NguyenVuDataMind)
-[![Profile Views](https://visitcount.itsvg.in/api?id=NguyenVuDataMind&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=NguyenVuDataMind&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -17,8 +19,8 @@
 
 ## 🚀 About Me
 
-> Tốt nghiệp ngành **Khoa học Dữ liệu (Data Science)**, hiện là **Data Engineer & Data Analyst** với **1+ năm kinh nghiệm** xây dựng giải pháp dữ liệu end-to-end cho các sàn thương mại điện tử lớn — **Shopee, TikTok Shop & Amazon**.
-> Đảm nhiệm toàn bộ data stack: từ xây dựng pipeline, thiết kế kho dữ liệu, đến trực quan hóa & data storytelling — kết hợp AI để tự động hóa quy trình kinh doanh.
+> Graduated in **Data Science**, currently working as a **Data Engineer & Data Analyst** with **1+ year of experience** building end-to-end data solutions for major eCommerce platforms — **Shopee, TikTok Shop & Amazon**.
+> Covering the full data stack: pipeline ingestion → warehouse design → visualization & storytelling — powered by AI automation to optimize business workflows.
 
 ---
 
@@ -58,11 +60,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NguyenVuDataMind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NguyenVuDataMind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=NguyenVuDataMind&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://streak-stats.demolab.com?user=NguyenVuDataMind&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVuDataMind&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVuDataMind&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
@@ -72,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVuDataMind&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVuDataMind&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
