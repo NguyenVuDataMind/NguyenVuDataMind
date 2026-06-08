@@ -54,15 +54,16 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🛠️ DevOps & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NguyenVuDataMind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophy" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NguyenVuDataMind&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
