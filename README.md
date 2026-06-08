@@ -60,12 +60,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NguyenVuDataMind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=NguyenVuDataMind&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NguyenVuDataMind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophy" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVuDataMind&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=NguyenVuDataMind&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -75,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVuDataMind&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenVuDataMind&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
